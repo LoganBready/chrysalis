@@ -111,7 +111,7 @@ export default function Navbar(props) {
       <CssBaseline />
       <AppBar className={classes.appBackground} elevation={2}>
         <Toolbar>
-          <a href="/">
+          <a href="/" rel="noreferrer">
             <img src={logo} alt="Chrysalis Logo..." className={classes.logo} />
           </a>
           <Typography color="textPrimary" sx={{ flexGrow: 1 }}></Typography>

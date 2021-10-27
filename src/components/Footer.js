@@ -69,6 +69,7 @@ const Footer = () => {
                   href="https://www.gochrysalis.com/home.html"
                   target="_blank"
                   style={{ textDecoration: "none", color: "black" }}
+                  rel="noreferrer"
                 >
                   CHRYSALIS.COM
                 </a>

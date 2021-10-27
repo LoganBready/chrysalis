@@ -121,7 +121,9 @@ export default function NavbarC(props) {
           </Typography>
 
           <Typography color="textPrimary" className={classes.words}>
-            <Button href="http://localhost:3000/">Something</Button>
+            <Button href="http://localhost:3000/" rel="noreferrer">
+              Something
+            </Button>
           </Typography>
           <Typography color="textPrimary" className={classes.words}>
             <Link to="jobs" smooth={true} offset={-115}>

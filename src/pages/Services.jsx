@@ -281,7 +281,11 @@ const Services = () => {
                     If you are interested in learning more, please email your
                     contact information and questions to
                     parentservices@gochrysalis.com or contact Steve Wrigley at
-                    <a href="tel:801-674-7922"> 801-674-7922</a>.
+                    <a href="tel:801-674-7922" rel="noreferrer">
+                      {" "}
+                      801-674-7922
+                    </a>
+                    .
                   </Typography>
                 </CardContent>
               </Card>

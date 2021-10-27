@@ -58,6 +58,7 @@ const Employement = () => {
               fullWidth
               className="jobsBtn"
               href="/jobs"
+              rel="noreferrer"
             >
               CURRENT AVAILABILITIES
             </Button>
