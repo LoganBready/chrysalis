@@ -5,6 +5,8 @@ import Home from "./pages/Home";
 import Services from "./pages/Services";
 import Jobs from "./pages/Jobs";
 import Mission from "./pages/Mission";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (

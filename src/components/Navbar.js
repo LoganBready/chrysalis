@@ -116,9 +116,9 @@ export default function Navbar(props) {
           </a>
           <Typography color="textPrimary" sx={{ flexGrow: 1 }}></Typography>
           <Typography color="textPrimary" className={classes.words}>
-            <Link to="home" smooth={true}>
+            <a href="/" style={{ textDecoration: "none", color: "black" }}>
               HOME
-            </Link>
+            </a>
           </Typography>
           <Typography color="textPrimary" className={classes.words}>
             <Link to="services" smooth={true}>
